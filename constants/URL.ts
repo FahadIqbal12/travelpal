@@ -1,0 +1,1 @@
+export const URL = 'https://travelpal-backend-sk2m.onrender.com'
