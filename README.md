@@ -3,9 +3,9 @@
 Please read the complete README.md to get complete information about the project.
 
 List of all codebases of the app:
-- [TravelPal Backend]()
+- [TravelPal Backend](https://github.com/FahadIqbal12/travelpal-public-backend)
 - [AirPass]()
-- [Download Android App]()
+- [Download Android App](https://drive.google.com/file/d/1ywLUsdgHBu8DScBoM3Fi9vFkPjgeYIk6/view?usp=sharing)
 
 ## Follow the steps to run the app
 
